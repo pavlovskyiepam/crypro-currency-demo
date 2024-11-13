@@ -6,7 +6,7 @@ import CoinList from './components/CoinList';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header single-line-header">
         <h1>Crypto Currency</h1>
       </header>
       <CoinList />
